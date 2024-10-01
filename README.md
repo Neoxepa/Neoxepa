@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Hello! My name is Guilherme. I'm a 20yo Computer Engeneering Student and an Beginner Programmer from Brazil, Feel free to take a look or contact me</p>
+<p align="left">Hello! My name is Guilherme. I'm a 20yo Computer Engeneering Student and an Beginner Programmer from Brazil, Feel free to take a look or  contact me</p>
 
 ###
 
-<h2 align="center">📄 About Me</h2>
+<h3 align="center">📄 About Me</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="center">👤 Socials</h2>
+<h3 align="center">👤 Socials</h3>
 
 ###
 
@@ -30,13 +30,13 @@
 
 ###
 
-<h2 align="center">⭐ Stats</h2>
+<h3 align="center">⭐ Stats</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neoxepa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Neoxepa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Neoxepa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false&order=1" height="100" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Neoxepa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&order=2" height="100" alt="languages graph"  />
 </div>
 
 ###
@@ -45,7 +45,7 @@
 
 ###
 
-<h2 align="center">Familiar with</h2>
+<h4 align="center">Familiar with</h4>
 
 ###
 
@@ -65,7 +65,7 @@
 
 ###
 
-<h2 align="center">Currently Learning</h2>
+<h4 align="center">Currently Learning</h4>
 
 ###
 
