@@ -10,7 +10,15 @@
 
 ###
 
-<p align="center">✨ I've been interested in tech my whole life and started coding for fun in 2021, but commited to fully learning in 2024<br>📚 I'm currently a computer engeneering student<br>🎲 My hobbies are playing games, watching movies and listening to (a lot) of music.<br>🎯 Looking forward to learning more</p>
+<p align="center">✨ I've been interested in tech my whole life and started coding for fun in 2021, but commited to fully learning in 2024<br>📚 I'm currently a computer engeneering student<br>🎯 Looking forward to learning more <br>🎲 My hobbies are playing games, watching movies and listening to (a lot) of music.</p>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/vsgbj20x31kjns303jwd57bym">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vsgbj20x31kjns303jwd57bym&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
@@ -24,14 +32,6 @@
   </a>
   <a href="https://www.instagram.com/guilhrmenezes/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/vsgbj20x31kjns303jwd57bym">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=vsgbj20x31kjns303jwd57bym&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
