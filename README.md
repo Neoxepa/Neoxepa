@@ -27,6 +27,9 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
 </div>
+<a href="https://www.last.fm/user/Neoapex">
+   <img align="center" src="https://lastfm-recently-played.vercel.app/api?user=NeoapexK&count=5&width=300&header_size=compact" alt="Last.fm Status">
+</a>
 
 ###
 
