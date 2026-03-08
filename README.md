@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ I've been interested in tech my whole life and started coding for fun in 2021, but commited to fully learning in 2024<br>📚 I'm currently a computer engeneering student<br>🎯 Looking forward to learning more <br>🎲 My hobbies are playing games, watching movies and listening to (a lot) of music.</p>
+<p align="center">✨ I've been interested in tech my whole life and started coding for fun in 2021, but commited to fully learning in 2024<br>📚 I'm currently a computer engeneering student<br>🎯 Looking forward to learning more <br>
 
 ###
 
